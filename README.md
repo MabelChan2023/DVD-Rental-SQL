@@ -1,5 +1,5 @@
 # DVD Rental SQL Project
-This project applies 10 queries onto the DVD rental database which can be accessed <a herf = "https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/"> here </a>.
+This project applies 10 queries onto the DVD rental database which can be accessed <a herf = "https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/">here</a>.
 
 # Explanation of Queries
 The objective of each query is as follows:
