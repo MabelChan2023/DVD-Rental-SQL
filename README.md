@@ -4,7 +4,8 @@ This project applies 10 queries onto the DVD rental database which can be access
 # Explanation of Queries
 The objective of each query is as follows:
 <ol>
-  <li></li>
+  <li>Retrive the number of English Sports films that have rental duration longer than 
+the rental duation average of all films</li>
   <li></li>
   <li></li>
   <li></li>
