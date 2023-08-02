@@ -18,6 +18,5 @@ AND f.film_id IN
 		(SELECT category_id FROM category WHERE name = 'Sports') 
 	)
 GROUP BY ca.name
-ORDER BY film_count DESC;
 
 
