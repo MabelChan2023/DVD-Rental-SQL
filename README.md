@@ -7,7 +7,7 @@ The objective of each query is as follows:
   <li>Retrive the number of English Sports films that have rental duration longer than 
 the rental duration average of all films</li>
   <li>Retrieve the inventory number of each film in ascending order</li>
-  <li></li>
+  <li>Retrieve the address id, name, district, phone of Canada customer with total payment amount in descending order</li>
   <li></li>
   <li></li>
   <li></li>
