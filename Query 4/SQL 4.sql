@@ -1,6 +1,6 @@
 /*
 Objective:
-Retrieve the average rental payment of Comedy films with film length longer than 90 mins in April in descending order
+Retrieve the average rental payment of Comedy films in April in descending order with film length longer than 90 mins
 */
 
 SELECT f.title,CAST(AVG(p.amount)AS DECIMAL(10,2))AS average_rental_payment
