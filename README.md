@@ -1,12 +1,12 @@
 # DVD Rental SQL Project
-This project applies 10 queries onto the DVD rental database which can be accessed <a href ="https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/">here</a>.
+This project applies 10 queries to the DVD rental database which can be accessed <a href ="https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/">here</a>.
 
 # Explanation of Queries
 The objective of each query is as follows:
 <ol>
   <li>Retrive the number of English Sports films that have rental duration longer than 
-the rental duation average of all films</li>
-  <li></li>
+the rental duration average of all films</li>
+  <li>Retrieve the inventory number of each film in ascending order</li>
   <li></li>
   <li></li>
   <li></li>
