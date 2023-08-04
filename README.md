@@ -10,11 +10,11 @@ the rental duration average of all films</li><br>
   <li>Retrieve the address id, name, district, phone of Canada customer with total payment amount in descending order</li><br>
   <li>Retrieve the average rental payment of Comedy films in April in descending order with film length longer than 90 mins</li><br>
   <li>Retrieve the average payment amount spent by customers in different countries</li><br>
-  <li></li><br>
-  <li></li><br>
-  <li></li><br>
-  <li></li><br>
-  <li></li><br>
+  <li>Retrieve the title and genre of films that bring total rental payment amount larger than 120 with rental duration longer than 5</li><br>
+  <li>Retrieve number of Games or Music films of each actor</li><br>
+  <li>Retrieve the films that have average payment amount higher than 5</li><br>
+  <li>Retrieve the total payment of customers that have words that starts with "M" and are at least 5 characters in length in their first name </li><br>
+  <li>Retrieve the number of payment that reach a specific range of amount using function</li><br>
 </ol>
 
 # ER Diagram of the database
