@@ -10,7 +10,7 @@ the rental duration average of all films</li><br>
   <li>Retrieve the address id, name, district, phone of Canada customer with total payment amount in descending order</li><br>
   <li>Retrieve the average rental payment of Comedy films in April in descending order with film length longer than 90 mins</li><br>
   <li>Retrieve the average payment amount spent by customers in different countries</li><br>
-  <li></li><br>
+  <li>Retrieve the title and genre of films that bring total rental payment amount larger than 120 with rental duration longer than 5</li><br>
   <li></li><br>
   <li></li><br>
   <li></li><br>
